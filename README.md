@@ -1,9 +1,11 @@
 Análise RFM e Segmentação de Clientes com SQL e Power BI
 
 🎯 Objetivo do Projeto
+
 Analisar a base de clientes de um e-commerce brasileiro (Olist) para identificar padrões de comportamento de compra e segmentá-los em grupos de valor utilizando o modelo RFM (Recência, Frequência, Monetário). O objetivo final é fornecer uma ferramenta de BI que permita direcionar estratégias de marketing, vendas e retenção de forma personalizada para cada segmento.
 
 📊 Dashboard Interativo (Demonstração)
+
 A análise foi consolidada em um dashboard interativo no Power BI. A demonstração abaixo exibe a funcionalidade de filtragem cruzada, onde a seleção de um segmento de cliente atualiza dinamicamente todos os outros visuais.
 
 O relatório interativo completo está disponível no arquivo .pbix deste repositório.
