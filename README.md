@@ -11,12 +11,13 @@ A análise foi consolidada em um dashboard interativo no Power BI. A demonstraç
 O relatório interativo completo está disponível no arquivo .pbix deste repositório.
 
 
-Clique para ver a imagem estática do Dashboard completo: ![print dashboard](https://github.com/user-attachments/assets/a121df9b-f250-4c04-8bd2-a4a2bcd6a1e2)
+Veja a imagem estática do Dashboard completo: ![print dashboard](https://github.com/user-attachments/assets/a121df9b-f250-4c04-8bd2-a4a2bcd6a1e2)
 
 
 
 
 ❓ Perguntas de Negócio e Insights Gerados
+
 Este projeto foi guiado para responder as seguintes perguntas:
 
 Quais cidades geram mais volume de vendas versus mais receita?
